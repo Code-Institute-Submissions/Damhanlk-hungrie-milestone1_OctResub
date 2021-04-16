@@ -12,7 +12,7 @@ The idea behind the project comes from a personal interest in food and what a us
 
 
 
-A deployed link to the website can be found HERE ////////
+A deployed link to the website can be found HERE //////// https://damhanlk.github.io/hungrie-milestone1/
 
 ## UX
 
@@ -78,7 +78,23 @@ Testing usually went as follows:
 
 Hard refresh using shift, ensure navbar worked, collapsed and expanded.
 
-## Deployment
+## Deployment 
+
+In my account GitHub website, I selected Repositories
+
+I selected hungrie-milestone1 from the GitHub Dashboard.
+
+I navigated to Settings and to the GitHub Pages section.
+
+From the Source section, I clicked on the drop-down menu and selected Master Branch.
+
+Once Master Branch is selected, the page has been automatically refreshed, with a detailed ribbon display GitHub Source Saved Pages indicating the successful implementation.
+
+The live link can be found here - https://damhanlk.github.io/hungrie-milestone1/
+
+
+
+
 
 How to run this project locally
 
@@ -110,6 +126,13 @@ I removed the hero-zoom on the hero image as it made the site quite slow.
 
 HMTL5 CSS3 Bootstrap v4.5.3 Google chrome dev tools - debugging query - for use of modal with bootstrap
 
+The website was tested both after the creation of each section separately but also after its completion. I tested all the functionality in the main browsers that ran on several operating systems: Chrome, Firefox, Safari, Windows 10, Mac OSX 10.14, and Android operating systems.
+
+Testing during section construction was done primarily with Chrome DevTools, making sure each element works correctly and optimally, including responsiveness across devices. For navbar, I tested the functionality of all links, including the site brand. I also tested the color change of links to hover and toggle and collapse functioning in small devices.
+
+I conducted several user tests to ensure there was an ease of use with this site, and all users reported the site was well functioning and user friendly. No users reported the Dog-Icon Navbar as an issue.
+
+When user stories were considered for testing, the site was applicable for new and returning users. Info was clearly displayed and the site was easily navigable. 
 ## Credits
 
 All of the images used on this site were taken from https://unsplash.com/
