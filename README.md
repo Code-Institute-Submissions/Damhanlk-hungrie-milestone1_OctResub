@@ -18,11 +18,34 @@ A deployed link to the website can be found HERE //////// https://damhanlk.githu
 
 User Stories
 
+### First time User
+
+As a first time user:
+
+I want to be able to navigate easily throughout the site using a navbar.
+
+I want to be able to view current featured recipes and chefs.
+
+I want to be able to see upcoming events in Dublin. 
+
+I want to be able to navigate to a gallery page which houses several pictures of dishes. 
+
+I want to see contact info, a location for the site's HQ and be able to navigate to different social media accounts.
+
+### Returning User
+
+As a returning user:
+
+I want to be able to navigate through thr site easily. 
+
+I want to be able to view recipes again, and view upcoming events in the city. 
+
+
 The end user of this project is anyone either interested in food or coming to Dublin as a tourist or visitor. The site is aimed at varying age groups - generally younger people / couples who want to dine out in the city. The site would mainly be accessed on mobile.
 
-The end user wants information on what events are taking place around the city and to click through to participating restaurants’ sites. The end user also wants to be able to return to hungr.ie as a base to collect information about recipes or chef’s that are being featured that week.
+The end user wants information on what events are taking place around the city and to click through to participating restaurants’ sites. The end user also wants to be able to return to hungr.ie as a base to collect information about recipes or chefs that are being featured that week.
 
-The benefit of this project is that it stores several features on one easily accessible and inviting homepage which is easily navigable for the user. It caters to both new and existing users by prompting to sign up for the newsletter.
+The benefit of this project is that it stores several features on one easily accessible and inviting homepage which is easily navigable for the user.
 
 As a user I want:
 
@@ -106,7 +129,15 @@ Then follow these steps:
 
 Install the Gitpod browser extension for Chrome here: https://www.gitpod.io/docs/browser-extension After installation, restart the browser. Log into Gitpod with your Gitpod account. Navigate to the repository: https://github.com/Damhanlk/milestone1-hungr.ie
 
-## Bugs
+## Testing
+
+Testing was carried out through several online validation sites. Images to this effect can be found in the images folder.
+
+Code passes through W3C validator for CSS and html with no errors. Third party vendor errors appear in the CSS validation image, however that cannot be fixed as they are third party functionalities. 
+
+Testing User Stories, images showcasing the different site sections are viewable in the images folder. Each section is easily reachable with one click on the navbar and so is consistent with user wishes. 
+
+
 
 Initially for the project I wanted to have a slightly different landing page set up. The original thought was to have a blurred/less bright background image in order for the logo and hero text to pop against the background more. However the child elements kept inheriting the filter of the background image as they were nested within the same div. In future I will be sure to be mindful of child divs inheriting filter strengths, as at the time this was quite confusing, and in the end I decided to remove the brightness filter altogether, which I still think looks good for the end user.
 
